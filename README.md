@@ -1,11 +1,8 @@
-# pycode-docs
-Public documentation for PyCode projects, datasets and data platforms
-
 [🌐 Website](https://pycode.tech) • [📊 Datasets](https://www.kaggle.com/pycodetech) • [💼 LinkedIn](https://www.linkedin.com/company/pycodetech)
 
-# PyCode
+# PyCode.tech
 
-PyCode is an independent initiative focused on building data platforms, web applications and digital tools for data-driven projects.
+PyCode.tech is an independent initiative focused on building data platforms, web applications and digital tools for data-driven projects.
 
 ## Activities
 
