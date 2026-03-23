@@ -1,0 +1,25 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Editor
+.vscode/
+.idea/
+
+# Python (au cas où)
+__pycache__/
+*.pyc
+
+# Env
+.env
+
+# Temporary files
+*.tmp
+*.bak
+
+# Mac
+.AppleDouble
+.LSOverride
